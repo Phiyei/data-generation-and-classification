@@ -1,4 +1,5 @@
-# Clasificación y generación de datos
+# Clasificación y generación de datos <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="64" />
+
 Proyecto que toma como entrada una serie de archivos planos, el cual contiene información de datos de los vendedores e información de las ventas de cada uno y genera reporte de ventas.
 ## Métodos
 ### `createSalesMenFiles`
