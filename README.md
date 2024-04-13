@@ -91,6 +91,10 @@ public boolean createSalesManInfoFile(int salesmanCount) {
     }
 }
 ```
+## Próximamente
+- Incluir cantidad de dinero que recaudó cada vendedor en el archivo.
+- Ordenar reporte de ventas por cantidad de dinero de mayor a menor.
+- Crear archivo con la información de los productos vendidos por cantidad, ordenados en forma descendente. 
 
 ### GRUPO B01 - SUBGRUPO 13
 Proyecto desarrollado por:
