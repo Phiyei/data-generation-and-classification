@@ -80,7 +80,6 @@ public class GenerateInfoFiles {
     		System.out.println("Error al generar productos.");
     		exception.printStackTrace();
     	}
-    	
     }
     
     public static void createSalesManInfoFile(int salesmanCount) {
@@ -126,8 +125,7 @@ public class GenerateInfoFiles {
     	} catch (IOException exception) {
     		System.out.println("Error al generar vendedores.");
     		exception.printStackTrace();
-    	}
-    	
+    	}	
     }
 
     public static void createSalesMenFile(int randomSalesCount, String name, long id) {
